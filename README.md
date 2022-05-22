@@ -1,4 +1,6 @@
-## __Oi! Eu sou o Guilherme de Lucca Moraes__ 🖖
+<div align="center">
+  
+## __Oi! Eu sou o Guilherme de Lucca Moraes e Bem Vindo ao Meu Perfil!__ 🖖
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ziero25&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziero25&layout=compact&langs_count=7&theme=github_dark"/>
@@ -17,3 +19,7 @@
   
 ![Snake animation](https://github.com/Ziero25/Ziero25/blob/output/github-contribution-grid-snake.svg)
    </div>
+
+  <div style="display: inline_block"><br>
+      <img align="right" alt="Rafa-pic" style="border-radius:50px;" src="https://media.discordapp.net/attachments/826969500083028052/977802412259704892/a0e2ae59431429125d3d93ae88fb5990.gif?width=432&height=243">
+</div>
