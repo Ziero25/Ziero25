@@ -8,7 +8,6 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-MySQL" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gui-Python" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gui-pic" height="120" width="150" style="border-radius:3000px;" src="https://media.discordapp.net/attachments/826969500083028052/977797742074163210/f9ba232d6b18c80b3a95c1ec8dc1c796.gif?width=400&height=224">
   </div>
   <br>
   
