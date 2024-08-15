@@ -1,6 +1,6 @@
 <div align="center"> 
 
-  ## __Oi! Eu sou o Guilherme de Lucca Moraes e Bem Vindo ao Meu Perfil!__ 🖖
+  ## __Oi! Bem Vindo ao meu Perfil!__ 🖖
 
   <div align="center">
   <a href="https://github.com/Ziero25">
