@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Executa a cada 6 horas
+    - cron: "0 */6 * * *" # Executa a cada 6 horas
   workflow_dispatch:
 
 permissions:
@@ -27,4 +27,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
