@@ -16,40 +16,16 @@
 ### 🐍 GitHub Contribution Snake
 
 ![Snake animation](https://github.com/Ziero25/Ziero25/blob/output/github-contribution-grid-snake-dark.svg)
-
-### Social
-
-<div align="left">  
-<a href="https://www.instagram.com/gui.luccaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
  
 ### Main skills:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![VS#]<img src="./icons/VSCode-Dark.svg" width="48">
-
- 
-### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-![AnyDesk](https://img.shields.io/badge/-anydesk-0D1117?style=for-the-badge&logo=anydesk&labelColor=0D1117)&nbsp;
-![TeamViewer](https://img.shields.io/badge/-teamviewer-0D1117?style=for-the-badge&logo=teamviewer&labelColor=0D1117)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=js,vscode,mysql,py,cs,discord,html,css,sublime,laravel)](https://skillicons.dev)
  
 ### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+![TeamViewer](https://img.shields.io/badge/-teamviewer-0D1117?style=for-the-badge&logo=teamviewer&labelColor=0D1117)&nbsp;
+![AnyDesk](https://img.shields.io/badge/-anydesk-0D1117?style=for-the-badge&logo=anydesk&labelColor=0D1117)&nbsp;
 
-
-### Studying in this moment:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-
+### LinkTree
+https://ziero25.github.io/projeto_rocket/
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c10ec&height=120&section=footer"/>
