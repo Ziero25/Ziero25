@@ -13,6 +13,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ziero25&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ziero25/Ziero25/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ziero25/Ziero25/output/github-contribution-grid-snake-light.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ziero25/Ziero25/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
 <div align="center">  
 <a href="https://www.instagram.com/gui.luccaa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
