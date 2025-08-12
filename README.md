@@ -26,6 +26,6 @@
 ![AnyDesk](https://img.shields.io/badge/-anydesk-0D1117?style=for-the-badge&logo=anydesk&labelColor=0D1117)&nbsp;
 
 ### LinkTree
-https://ziero25.github.io/projeto_rocket/
+Você pode visualizar o meu LinkTree através [DESSE LINK](<https://ziero25.github.io/projeto_rocket/>).
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c10ec&height=120&section=footer"/>
