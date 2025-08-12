@@ -23,8 +23,7 @@
   </picture>
 </div>
 
-![Snake animation](https://github.com/<Ziero25>/<Ziero25>/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/Ziero25/Ziero25/blob/output/github-contribution-grid-snake.svg)
 
 ### Social
 
