@@ -7,15 +7,14 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziero25&layout=compact&hide_border=true&title_color=eeedf6&text_color=9a0c8b&bg_color=20141f" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ziero25&bg_color=000000&color=9a0c8b&line=eeedf6&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ziero25&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
 
-### 🐍 GitHub Contribution Snake
-
-![Snake animation](https://github.com/Ziero25/Ziero25/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">  
+  
+  ![Snake animation](https://github.com/Ziero25/Ziero25/blob/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
  
 ### Main skills:
 [![My Skills](https://skillicons.dev/icons?i=js,vscode,mysql,py,cs,discord,html,css,sublime,laravel)](https://skillicons.dev)
