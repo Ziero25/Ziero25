@@ -46,7 +46,16 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
+<p>
+  <img src="imagens/laravel.png" height="30" alt="Laravel" />
+  <img src="imagens/cpp.svg" height="30" alt="C++" />
+  <img src="imagens/mysql.svg" height="30" alt="MySQL" />
+  <img src="imagens/sqlite.svg" height="30" alt="SQLite" />
+</p>
+
+
 ### Studying in this moment:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c10ec&height=120&section=footer"/>
