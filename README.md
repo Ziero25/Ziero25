@@ -27,11 +27,6 @@
 ### LinkTree
 Você pode visualizar o meu LinkTree através [DESSE LINK](<https://ziero25.github.io/projeto_rocket/>).
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c10ec&height=120&section=footer"/>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ziero25.Ziero25&"  />
-</div>
-
 ###
 
 <div align="center">
