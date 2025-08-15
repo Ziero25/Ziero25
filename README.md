@@ -28,3 +28,22 @@
 Você pode visualizar o meu LinkTree através [DESSE LINK](<https://ziero25.github.io/projeto_rocket/>).
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c10ec&height=120&section=footer"/>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ziero25.Ziero25&"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c3hucmF4cHFrbGl3am90bzg3dmNoNXc2NDBieTB0bnc1eGt4dTlvdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/okWCAjMp0pInC/giphy.gif"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ziero25/Ziero25/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ziero25/Ziero25/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ziero25/Ziero25/output/pacman-contribution-graph.svg">
+</picture>
+
+###
