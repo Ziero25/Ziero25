@@ -2,11 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9a0c8b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+de+Lucca+Moraes;I'm+21+years+old;I+am+from+Morro+Agudo,+SP;I+study+analyst+programming;Im+Full+Support+Analyst+at+i12Sistemas;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ziero25&show_icons=true&count_private=true&hide_border=true&title_color=eeedf6&icon_color=9a0c8b&text_color=c9d1d9&bg_color=20141f" alt="Guilherme github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ziero25&layout=compact&hide_border=true&title_color=eeedf6&text_color=9a0c8b&bg_color=20141f" />
-</div>
-
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
 
 
