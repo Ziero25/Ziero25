@@ -1,18 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c10ec&height=120&section=header"/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9a0c8b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+de+Lucca+Moraes;I'm+21+years+old;I+am+from+Morro+Agudo,+SP;I+study+analyst+programming;Im+Full+Support+Analyst+at+i12Sistemas;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+ 
+### Main skills:
+[![My Skills](https://skillicons.dev/icons?i=js,vscode,mysql,py,cs,discord,html,css,sublime,laravel)](https://skillicons.dev)
 
 <h2 align="center">🐍 GitHub Contribution Snake</h2>
-
 
 <div align="center">  
   
   ![Snake animation](https://github.com/Ziero25/Ziero25/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
- 
-### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=js,vscode,mysql,py,cs,discord,html,css,sublime,laravel)](https://skillicons.dev)
  
 ### Other Knowledge:
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
